@@ -1,4 +1,4 @@
-#Library Practices
+# Library Practices
 
 Best practices/norms for writing a small js library/widget/framework, so far as I can figure it out.
 
